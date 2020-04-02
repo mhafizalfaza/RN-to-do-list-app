@@ -1,4 +1,4 @@
-# React Native To do List App
+# React Native To Do List App
 
 A simple to do list app built with React Native
 
