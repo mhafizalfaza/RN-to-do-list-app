@@ -1,3 +1,11 @@
+# Project Title
+
+React Native To do List App
+
+## Description
+
+This is a very simple to do list app built with React Native. This app only has basic authentication features including Sign up, Login, and Log out and its core feature which is To Do List CRUD (Create, Read, Update, and Delete)
+
 <img width="258" alt="rsz_2demo_screen_1" src="https://user-images.githubusercontent.com/26792286/78239518-fabafa00-7507-11ea-909c-a6a7588e6b61.png">
 <img width="256" alt="rsz_2demo_screen_2" src="https://user-images.githubusercontent.com/26792286/78239480-eecf3800-7507-11ea-91c7-547c42a64b83.png">
 <img width="257" alt="rsz_2demo_screen_3" src="https://user-images.githubusercontent.com/26792286/78239474-ed9e0b00-7507-11ea-8051-d926660d1c49.png">
