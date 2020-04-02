@@ -1,1 +1,1 @@
-![github-small](https://user-images.githubusercontent.com/26792286/78236473-3bb10f80-7504-11ea-86b2-7523a20fcdb9.png | width=100)
+<img src="https://user-images.githubusercontent.com/26792286/78236473-3bb10f80-7504-11ea-86b2-7523a20fcdb9.png" style="width: 100px;">
