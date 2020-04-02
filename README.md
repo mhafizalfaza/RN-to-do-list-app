@@ -1,10 +1,10 @@
-# Project Title
+# React Native To do List App
 
-React Native To do List App
+A simple to do list app built with React Native
 
 ## Description
 
-This is a very simple to do list app built with React Native. This app only has basic authentication features including Sign up, Login, and Log out and its core feature which is To Do List CRUD (Create, Read, Update, and Delete). This app also uses three types of navigation ( Stack, Tab, and Drawer ) from React Navigation to make navigation feel more intuitive.
+This app only has basic authentication features including Sign up, Login, and Log out and its core feature which is To Do List CRUD (Create, Read, Update, and Delete). This app also uses three types of navigation ( Stack, Tab, and Drawer ) from React Navigation to make navigation feel more intuitive.
 
 ## Demo Screenshots
 
