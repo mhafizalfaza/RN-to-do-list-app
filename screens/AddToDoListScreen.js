@@ -24,7 +24,7 @@ function AddToDoListScreen ({ navigation }) {
 
     setTimeout(() => {
       toDoListDispatch({ type: SET_TO_DO_LIST, payload: { isPosting: false } })
-    }, 10000)
+    }, 1000)
     navigation.navigate('ToDoListView');
   };
 
